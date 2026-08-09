@@ -1,0 +1,18 @@
+{
+  "version": "1.7.0",
+  "revision": "a5d271fa1698",
+  "builtAt": "2026-08-09T13:56:16.5130864Z",
+  "client": {
+    "file": "pixel-1.7.0.msi",
+    "size": 22106112,
+    "sha256": "8c3953bf22040ab7f80d5ad573428b144ad60ebb31c80d105616fbb49d267108",
+    "signature": "kPsXiV1Vnd7lpym/uazkwE525viGsTGkK9lslpyYSbIiZ5si46gHcFRM/ViXQ3gPZKkoY3cedVwMtRZxxWdODQ=="
+  },
+  "server": {
+    "file": "vpn-server-1.7.0.tar.gz",
+    "size": 15294674,
+    "sha256": "a111f4155718945978507fb488b17360eb5320a8c45781646e0af19fc6cae428",
+    "requiresConfigSchema": 1,
+    "signature": "7fa6oc1YHNXXxq8DzR88b2jskjUTb7S+ngVWovw5TqrkOKWp35XRnq0MysM9PwOshCroga7KfFPcBG6+lyj1CQ=="
+  }
+}
