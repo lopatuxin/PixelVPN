@@ -1,18 +1,18 @@
 {
-  "version": "1.7.3",
-  "revision": "fa4f9da883cc",
-  "builtAt": "2026-08-17T11:10:48.8757607Z",
+  "version": "1.7.4",
+  "revision": "39f683d8f2c8",
+  "builtAt": "2026-08-18T07:45:42.0564241Z",
   "client": {
-    "file": "pixel-1.7.3.msi",
-    "size": 22372352,
-    "sha256": "98b2cb1917a940d2e63ff93a4c65359ca43d77fdd2b1dea8b5117f0b045eb460",
-    "signature": "5zU2jRbsPwCjEaCZRtNWtig4AbSho5Iq1kXAvvbni9DXSO0knMg9PhppHgT8UnJc4I+Zfe/Gmc7PhygI9n8YDw=="
+    "file": "pixel-1.7.4.msi",
+    "size": 22384640,
+    "sha256": "e1c8ef886e8b73138da780d81213e102c863e2c6c272d79201f3aaf74cc8a34b",
+    "signature": "e6z5bamjgOW0CRJVpYyBfANfgQ0zGwKN2xGbKp0nfBn/VsEH4EHZReH+EN8KGFHyApMrimEwZlwacmYb7lI8Aw=="
   },
   "server": {
-    "file": "vpn-server-1.7.3.tar.gz",
-    "size": 15294500,
-    "sha256": "d372f073bd61e7c1b4aea55e174c560ba47434b2a0fc24d37392a00165982495",
+    "file": "vpn-server-1.7.4.tar.gz",
+    "size": 15294505,
+    "sha256": "d33f296e675a6c5b81fbfe00b132f490ab3344f1398350ee98f15914bcfe7ce5",
     "requiresConfigSchema": 1,
-    "signature": "Cn1vZhO9zHx2yIVLAdibHrV0fpHMi3Ub8WsOJmU2f9RFgMYlfCaqLp+6wi/YvLfRyIfMMZLydS5NggIw/n16AA=="
+    "signature": "ldJnnldm11lZjMuvnGAm73A8zpKlNUYdI6kmXorLAnOVaq+6dy/53VyGAzZ5F9D8MNnY3GartY3HJgKOPsSFDA=="
   }
 }
